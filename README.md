@@ -103,6 +103,19 @@ If you run outside Kaggle, you may need to adjust file paths to point to the dow
 ## Citation
 - Cui et al., 2019 — *Class-Balanced Loss Based on Effective Number of Samples*
 - ESA WorldCover 2021
+
+- ## Acknowledgments
+
+This project was developed through an iterative AI-assisted learning workflow. Core concepts—including class imbalance handling (weighted sampling, beta-adjusted loss), heavy augmentation, Test-Time Augmentation (TTA), and mixup—were explored and implemented with guidance from **Claude AI** and refined through hands-on experimentation.
+
+Debugging support was provided by **Google AI**, and foundational understanding was built by studying, running, and modifying each component of the codebase independently.
+
+**Tools & Resources:**
+- [Claude](https://claude.ai) — concept exploration, code generation & review
+- [Google AI](https://google.com) — debugging assistance
+- [YouTube](https://youtube.com) — initial research
+
+> *Built with AI guidance, understood through practice.*
 - EfficientNet (Tan & Le, 2019)
 
 ---
