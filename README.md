@@ -103,6 +103,9 @@ If you run outside Kaggle, you may need to adjust file paths to point to the dow
 ## Citation
 - Cui et al., 2019 — *Class-Balanced Loss Based on Effective Number of Samples*
 - ESA WorldCover 2021
+- EfficientNet (Tan & Le, 2019)
+
+---
 
 - ## Acknowledgments
 
@@ -116,9 +119,6 @@ Debugging support was provided by **Google AI**, and foundational understanding 
 - [YouTube](https://youtube.com) — initial research
 
 > *Built with AI guidance, understood through practice.*
-- EfficientNet (Tan & Le, 2019)
-
----
 
 ## License
 This project uses publicly available datasets and open-source libraries. Refer to individual dataset/library licenses for usage restrictions.
