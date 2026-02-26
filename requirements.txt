@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+
+# Geospatial
+geopandas
+shapely
+rasterio
+scipy
+
+# Deep Learning
+torch
+torchvision
+pillow
+
+# Dataset utility
+kagglehub
