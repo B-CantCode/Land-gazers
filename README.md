@@ -100,20 +100,6 @@ jupyter notebook submission.ipynb
 
 If you run outside Kaggle, you may need to adjust file paths to point to the downloaded dataset location.
 
----
-
-## Outputs (Recommended)
-
-Create an `outputs/` folder and save artifacts there, for example:
-- `outputs/best_model.pth`
-- `outputs/confusion_matrix.png`
-- `outputs/class_distribution.png`
-- `outputs/classification_report.txt`
-
-(GitHub does not keep empty folders, so include a `.gitkeep` file or an `outputs/README.md`.)
-
----
-
 ## Citation
 - Cui et al., 2019 — *Class-Balanced Loss Based on Effective Number of Samples*
 - ESA WorldCover 2021
